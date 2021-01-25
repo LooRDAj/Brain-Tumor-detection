@@ -1,4 +1,4 @@
-# Limatations-of-nural-networks
+# Brain Tumor detection
 here i am trying to show that  classification algoritms works 
 better than neural neworks in case of small datasets for that purpose i use brain_tumor dataset contains 
 253   MRI   images of brain 
